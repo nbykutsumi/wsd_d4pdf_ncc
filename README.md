@@ -5,7 +5,7 @@ Objective detection of weather systems.
 d4PDF (Global) version.
 
 ## Requirement
-- python2.7
+- python3.8
 - f2py
 - gfortran
 - numpy
